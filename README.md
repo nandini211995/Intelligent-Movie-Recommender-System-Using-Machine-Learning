@@ -15,4 +15,4 @@ optimum rating,considered User star rating also.
 - Created an interface(Website) for this project.The url of the website is :
 http://www.recommendme.in
 
--For the more detail , refer the published paper 
+-For the more detail , refer the published paper : [IHCI2016-Intelligent Movie Recommender System Using Machine Learning](https://link.springer.com/chapter/10.1007/978-3-319-52503-7_8#citeas) 
